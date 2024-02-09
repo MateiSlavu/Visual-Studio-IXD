@@ -1,0 +1,10 @@
+C:\Users\Matei Slavu\Documents\2023-2024\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\Matei Slavu\Documents\2023-2024\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\Matei Slavu\Documents\2023-2024\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\Matei Slavu\Documents\2023-2024\PrimeNumber\obj\Debug\PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\Matei Slavu\Documents\2023-2024\PrimeNumber\obj\Debug\PrimeNumber.Properties.Resources.resources
+C:\Users\Matei Slavu\Documents\2023-2024\PrimeNumber\obj\Debug\PrimeNumber.csproj.GenerateResource.cache
+C:\Users\Matei Slavu\Documents\2023-2024\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Matei Slavu\Documents\2023-2024\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\Matei Slavu\Documents\2023-2024\PrimeNumber\obj\Debug\PrimeNumber.pdb
+C:\Users\Matei Slavu\Documents\2023-2024\PrimeNumber\obj\Debug\PrimeNumber.PrimeNumberForm.resources
